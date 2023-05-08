@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harn Thonglertwong</h1>
-<h3 align="center">New graduate in Electronic System Engineering</h3>
+<h3 align="center">New graduate in Electronic System Engineering, Passionate about Data Engineering</h3>
 
 <h3> My projects </h3>
 
