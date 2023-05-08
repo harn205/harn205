@@ -19,7 +19,7 @@
 
 - End to End Batch processing and Real-time Data streaming on Hadoop ecosystem managed by Cloudera. : [Real-time_Data_streaming_on_Hadoop-ecosystem_by_Cloudera](https://github.com/harn205/Real-time_Data_streaming_on_Hadoop-ecosystem_by_Cloudera)
   - **Ingested raw data into Hadoop HDFS via Hadoop CLI**, **clean data** with **SparkSQL**.
-  - Real-time streaming data with Flume, stored on HBase and Transformed with Spark streaming then **loaded to Hive**.
+  - **Real-time streaming data with Flume**, **stored on HBase** and **Transformed with Spark streaming** then **loaded to Hive**.
   - **Scheduling data workflow with Oozie** and Using HiveQL to generate data insights.
 
 
