@@ -22,6 +22,8 @@
   - **Real-time streaming data with Flume**, **stored on HBase** and **Transformed with Spark streaming** then **loaded to Hive**.
   - **Scheduling data workflow with Oozie** and Using HiveQL to generate data insights.
 
+- Change Data Capture (CDC) to replicate data from a source database to a destination database using Kafka: [Change data capture with Kafka](https://github.com/harn205/CDC_kafka)
+ 
 
 
 📫 Email: **harn.tw@gmail.com**
